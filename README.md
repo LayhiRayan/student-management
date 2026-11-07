@@ -94,3 +94,10 @@ Exemple de corps JSON :
 ```powershell
 ./mvnw.cmd test
 ```
+
+## Captures d’écran Swagger
+
+L’interface Swagger UI regroupe les endpoints de gestion des étudiants, les opérations Spring Data REST et les schémas de données.
+
+![Capture complète de l’interface Swagger UI et des endpoints de l’API](docs/screenshots/swagger-full.jpg)
+
